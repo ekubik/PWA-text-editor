@@ -17,7 +17,12 @@ module.exports = () => {
       filename: "[name].bundle.js",
       path: path.resolve(__dirname, "dist"),
     },
-    plugins: [],
+    plugins: [
+      new HtmlWebpackPlugin({
+        template: "./index.html",
+        title: "Text Editor",
+      }),
+    ],
 
     module: {
       rules: [
