@@ -54,7 +54,7 @@ The application can be started from the command line, using the command
 
 The project repository can be accessed at <a href="https://github.com/ekubik/PWA-text-editor">https://github.com/ekubik/PWA-text-editor</a>
 
-The deployed application can be viewed <a href="" target="_blank"> here </a> 
+The deployed application can be viewed <a href="https://agile-scrubland-57177.herokuapp.com/" target="_blank"> here </a> 
 
 <br>
 
