@@ -45,9 +45,17 @@ The application can be started from the command line, using the command
 
 ## Demonstration
 
+<img src="demo-images/JATE.png"/>
+<br>
+<img src="demo-images/manifest.png">
+<br>
+<img src="demo-images/indexddb.png">
+<br>
+<img src="demo-images/service-worker.png">
+<br>
 
-
-
+<a href="https://agile-scrubland-57177.herokuapp.com/" target="_blank">Click here for the deployed application </a>
+<br>
 <br>
 
 ## Link
